@@ -57,5 +57,8 @@ The backend is supported by a SQL database. The provided script creates a table 
 
 🔺Implementing an automated email notification system for confirmed appointments.
 
+I Hope, I will improve my skills to develop more detail things.
+
  
+
 
