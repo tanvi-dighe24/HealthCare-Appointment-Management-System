@@ -48,7 +48,7 @@ The backend is supported by a SQL database. The provided script creates a table 
 
 🔺Furthermore, the project was designed to demonstrate my ability to bridge the gap between backend logic and database management. By including a dedicated SQL script, I have ensured that the application is not just a temporary tool but a solution capable of permanent data storage and professional-grade reporting.
 
-7.FUTURE IMPROVEMENTS:
+7.FUTURE IMPROVEMENTS could done:
 🔺Planned updates for this project include:
 
 🔺Integration of a frontend interface using React or Angular.
@@ -60,5 +60,6 @@ The backend is supported by a SQL database. The provided script creates a table 
 I Hope, I will improve my skills to develop more detail things.
 
  
+
 
 
