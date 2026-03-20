@@ -40,7 +40,7 @@ The project is divided into specific folders to ensure scalability:
 
 The backend is supported by a SQL database. The provided script creates a table named AppointmentTable which includes columns for Patient ID, Name, Email, Specialty, and Date. It uses an Identity specification to ensure every patient gets a unique, non-repeating ID automatically.
 
-6.PROJECT DESIGN MOTIVATION:🔥
+6.PROJECT DESIGN MOTIVATION.....
 
 🔺The primary goal of designing this HealthCare Appointment Management System was to address the common challenge of manual record-keeping in medical facilities. By automating the scheduling process, this project aims to reduce human error and improve the efficiency of patient data handling.
 
