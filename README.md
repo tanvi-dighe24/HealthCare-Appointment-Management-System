@@ -1,8 +1,10 @@
                    ⭐PROJECT TITLE: HEALTHCARE APPOINTMENT MANAGEMENT SYSTEM🏥🧑🏻‍⚕️💊💉
 1. PROJECT OVERVIEW:
+
+   
 This project is a Backend Web API designed to streamline the process of booking and managing hospital appointments. It was developed to demonstrate core competencies required for the Programmer Analyst Trainee role, focusing on clean code, organized project structure, and database management.
 
-2. TECHNICAL SPECIFICATIONS:  
+3. TECHNICAL SPECIFICATIONS:  
 The system is built using the following technologies:
 
 🔺Programming Language: C#
@@ -48,7 +50,7 @@ The backend is supported by a SQL database. The provided script creates a table 
 
 🔺Furthermore, the project was designed to demonstrate my ability to bridge the gap between backend logic and database management. By including a dedicated SQL script, I have ensured that the application is not just a temporary tool but a solution capable of permanent data storage and professional-grade reporting.
 
-7.FUTURE IMPROVEMENTS could done:
+#7.FUTURE IMPROVEMENTS could done:
 🔺Planned updates for this project include:
 
 🔺Integration of a frontend interface using React or Angular.
