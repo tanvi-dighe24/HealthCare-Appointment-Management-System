@@ -1,8 +1,10 @@
-                   ⭐PROJECT TITLE: HEALTHCARE APPOINTMENT MANAGEMENT SYSTEM🏥🧑🏻‍⚕️💊💉
+                   ⭐PROJECT TITLE: HEALTHCARE APPOINTMENT MANAGEMENT SYSTEM🏥🧑🏻‍⚕️💊💉:
+
+
+
 1. PROJECT OVERVIEW:
 
-   
-This project is a Backend Web API designed to streamline the process of booking and managing hospital appointments. It was developed to demonstrate core competencies required for the Programmer Analyst Trainee role, focusing on clean code, organized project structure, and database management.
+-This project is a Backend Web API designed to streamline the process of booking and managing hospital appointments. It was developed to demonstrate core competencies required for the Programmer Analyst Trainee role, focusing on clean code, organized project structure, and database management.
 
 3. TECHNICAL SPECIFICATIONS:  
 The system is built using the following technologies:
